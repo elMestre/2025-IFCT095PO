@@ -4,7 +4,7 @@
 - [turingcomplete](https://turingcomplete.game/)
 - [tool christitus](https://christitus.com/windows-tool/)
 - [PROGRAMA FORMATIVO DE LA ESPECIALIDAD FORMATIVA](https://www.fundae.es/docs/default-source/convocatorias-de-subvenciones/especialidades-formativas/IFCT095PO.pdf)
-
+- [W³ Schools - Python](https://www.w3schools.com/python/default.asp)
 
 ## SoloMac
 

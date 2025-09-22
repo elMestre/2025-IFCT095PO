@@ -14,3 +14,25 @@
         - saldra el mensaje de "Puedes comprarlo"
     - En caso contrario el mesaje rezará:
         - "No hay suficientes fondos"
+
+## 3 e.control
+
+- Escribe código que haga la cuenta atrás de un cohete
+
+ej:
+
+```
+10
+9
+8
+7
+6
+5
+4
+3
+2
+1
+DESPEGUE!
+BROOOOOOOMMMMMM
+---------------
+```

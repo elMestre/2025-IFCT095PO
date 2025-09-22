@@ -28,3 +28,14 @@ algo = hipotenusa(1, 3)
 algo = hipotenusa(2, 2)
 print(algo)
 algo = hipotenusa(2, 3)
+
+# operadores de asignacion
+
+a = 2
+a += 3
+
+print("a: ", a)
+
+b = 2
+b *= 3
+print("b: ", b)

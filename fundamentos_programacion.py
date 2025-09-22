@@ -1,4 +1,8 @@
 # Declaracion y asignación de variable
+# a nombre de la variable
+# = operador de asignacion
+# 3 numero entero
+
 a = 3  # entero
 print(type(a))
 print(a)

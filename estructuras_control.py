@@ -26,3 +26,14 @@ while a < 5:
 
 print("--------------")
 print("FIN")
+
+
+a = 7
+
+if a < 5:
+    print("Pequeño")
+elif a < 10:
+    print("Tamaño perfecto")
+    print("comprar()")
+else:
+    print("Muy grande")

@@ -36,3 +36,7 @@ DESPEGUE!
 BROOOOOOOMMMMMM
 ---------------
 ```
+
+- Vamos a comprobar si sale a cuenta despegar con un avión
+    - Si hay pocos pasajeros (POCOS < 25) no vale pena despegar
+    - Si hay demasiados pasajeros (MAX_AVION=150) ¿Vale la pena fletar u nsegundo avión?

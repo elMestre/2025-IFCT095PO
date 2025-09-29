@@ -9,6 +9,7 @@
 - [W³ Schools - Python](https://www.w3schools.com/python/default.asp)
 - [Vacuum tube vs transistor](https://www.eeweb.com/what-are-some-advantages-of-designing-with-vacuum-tubes/)
 - [Capas Servidor web](https://x.com/MoureDev/status/1965763056769613854/photo/1)
+- [Python Basics](https://www.tutorialspoint.com/python/python_basic_syntax.htm)
 
 ## Instalación
 

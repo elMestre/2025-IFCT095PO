@@ -11,6 +11,10 @@
 - [Capas Servidor web](https://x.com/MoureDev/status/1965763056769613854/photo/1)
 - [Python Basics](https://www.tutorialspoint.com/python/python_basic_syntax.htm)
 
+## Grabaciones
+
+- [https://masterfactories.com/campograndeformacion/<DNI>](https://masterfactories.com/campograndeformacion/<DNI>)
+
 ## Instalación
 
 - [Git](https://git-scm.com/downloads)

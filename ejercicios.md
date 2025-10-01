@@ -44,5 +44,10 @@ BROOOOOOOMMMMMM
 
 ## Funciones
 
-Crea un codigo en una funcion que devuela el cuadrado de un numero `num`
+Resuelve estos ejercicios usando funciones
+
+- Crea un codigo en una funcion que devuela el cuadrado de un numero `num`
 si `num` es negativo devuelve `None` en su lugar
+- Muestra por pantalla el saludo `¡Hola amiga!` cada vez que se la invoque.
+- Escribir una función a la que se le pase una cadena `<nombre>` y muestre por pantalla el saludo `¡hola <nombre>!.`
+- Escribir una función que calcule el total de una factura tras aplicarle el IVA. La función debe recibir la cantidad sin IVA y el porcentaje de IVA a aplicar, y devolver el total de la factura. Si se invoca la función sin pasarle el porcentaje de IVA, deberá aplicar un 21%.

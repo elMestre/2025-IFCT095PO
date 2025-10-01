@@ -40,3 +40,9 @@ BROOOOOOOMMMMMM
 - Vamos a comprobar si sale a cuenta despegar con un avión
     - Si hay pocos pasajeros (POCOS < 25) no vale pena despegar
     - Si hay demasiados pasajeros (MAX_AVION=150) ¿Vale la pena fletar un segundo avión?
+
+
+## Funciones
+
+Crea un codigo en una funcion que devuela el cuadrado de un numero `num`
+si `num` es negativo devuelve `None` en su lugar

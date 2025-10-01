@@ -1,4 +1,4 @@
-def d(variable):
+def detalles(variable):
     print(variable, type(variable))
 
 if __name__ == "__main__":
@@ -8,7 +8,7 @@ if __name__ == "__main__":
     z = int("3")
     w = int(float("3.0"))
 
-    d(a)
-    d(x)
-    d(y)
-    d(z)
+    detalles(a)
+    detalles(x)
+    detalles(y)
+    detalles(z)

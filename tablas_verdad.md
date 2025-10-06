@@ -40,4 +40,8 @@ not False and not True  => False
 x < 5 and x < 10      #   [        True | False       ]
 x < 5 or x < 4        #   [        True | False       ]
 not(x < 5 and x < 10) #   [       False | True        ]
+
+3 and 1               # True
+2 and 0               # False
+
 ```

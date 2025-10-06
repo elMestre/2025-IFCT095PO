@@ -70,3 +70,31 @@ numero = 4
 resultado = factorial(numero)
 print("El factioral de {numero} es {resultado}")
 ```
+
+## Casting, excepciones y recursividad
+
+Crea una función recursiva Esta le pedria de al usuario un numero entero y seguirá pidiendoselo hasta que se introduzca un numero válido
+
+Al final la funcion debe retornar el numero entero
+
+## Listas
+
+- Para cada palabra de una frase la imprimimos en una linea nueva
+
+- Crea una lista e inicializala con 5 cadenas de caracteres leídas por teclado. Copia los elementos de la lista en otra lista pero en orden inverso, y muestra sus elementos por la pantalla.
+
+- Explica el funcionamiento:
+
+```python
+print("Inicio de cuenta para el despegue...")
+i = 60
+while i > 0:
+    i -= 1
+    if i in [0, 10, 20, 30, 40, 50]:
+        continue
+        break
+    print(f"T - {i}")
+
+print("DESPEGUE...")
+
+```

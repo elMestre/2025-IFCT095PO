@@ -6,5 +6,4 @@ detalles(datos)
 print(datos * 2)
 print("--------------------------")
 
-
-input_int()
+# input_int()

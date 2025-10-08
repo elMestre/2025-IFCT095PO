@@ -98,3 +98,21 @@ while i > 0:
 print("DESPEGUE...")
 
 ```
+
+## Diccionarios
+
+El programa solicitará datos al usuario uno detrá de otro
+crearemos una lista de coches iguales
+al final mostramos la lista
+
+```python
+coches = [{
+    "nombre": "citroen",
+    "precio": 1000,
+    "potencia": 100
+}, {
+    "nombre": "bmw",
+    "precio": 3000,
+    "potencia": 180
+}]
+```

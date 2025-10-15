@@ -28,6 +28,9 @@ python -m venv .venv
 .venv\Scripts\activate
 ```
 
+> Si powershell falla, debes permitir ejecuion de scripts
+> ```Set-ExecutionPolicy -ExecutionPolicy RemoteSigned```
+
 - Instalamos dependencias (Flask es solo un ejemplo)
 
 ```bash

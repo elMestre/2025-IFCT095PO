@@ -119,9 +119,9 @@ coches = [{
 
 ## [Ejercicios python basics](https://antonio-richaud.com/biblioteca/archivo/guia-python-basica/guia-python-basica.pdf)
 
-Ejercicio 8: Contar el número de vocales en una cadena de texto
-Ejercicio 9: Crear una función que verifique si una lista está vacía
-Ejercicio 10: Encontrar el número máximo en una lista sin usar funciones incorporadas (SIN USAR max())
+- Ejercicio 8: Contar el número de vocales en una cadena de texto
+- Ejercicio 9: Crear una función que verifique si una lista está vacía
+- Ejercicio 10: Encontrar el número máximo en una lista sin usar funciones incorporadas (SIN USAR max())
 
 ## FizzBuzz
 

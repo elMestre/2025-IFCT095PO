@@ -116,3 +116,17 @@ coches = [{
     "potencia": 180
 }]
 ```
+
+## [Ejercicios python basics](https://antonio-richaud.com/biblioteca/archivo/guia-python-basica/guia-python-basica.pdf)
+
+Ejercicio 8: Contar el número de vocales en una cadena de texto
+Ejercicio 9: Crear una función que verifique si una lista está vacía
+Ejercicio 10: Encontrar el número máximo en una lista sin usar funciones incorporadas (SIN USAR max())
+
+## FizzBuzz
+
+Escribe un programa que muestre por consola (con un print) los números de 1 a 100 (ambos incluidos y con un salto de línea entre cada impresión), sustituyendo los siguientes:
+
+- Múltiplos de 3 por la palabra "Fizz".
+- Múltiplos de 5 por la palabra "Buzz".
+- Múltiplos de 3 y de 5 a la vez por la palabra "FizzBuzz".

@@ -11,6 +11,8 @@
 - [Capas Servidor web](https://x.com/MoureDev/status/1965763056769613854/photo/1)
 - [Python Basics](https://www.tutorialspoint.com/python/python_basic_syntax.htm)
 - [Anatomia de una función](https://i0.wp.com/holamundo.io/wp-content/uploads/2023/02/funct4-1.png)
+- [Métodos HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/Methods)
+- [Anatomia de una URL](https://developer.mozilla.org/en-US/docs/Learn_web_development/Howto/Web_mechanics/What_is_a_URL)
 
 ## Grabaciones
 

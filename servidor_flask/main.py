@@ -1,5 +1,8 @@
 from flask import Flask, request
 
+# Ejemplo de peticion
+# http://127.0.0.1:5000/patata?color=rojo&cantidad=12&tamanyo=grande
+
 app = Flask(__name__)
 contador = 0
 

@@ -14,6 +14,8 @@
 - [Métodos HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/Methods)
 - [Anatomia de una URL](https://developer.mozilla.org/en-US/docs/Learn_web_development/Howto/Web_mechanics/What_is_a_URL)
 - [Django tutorial 01](https://docs.djangoproject.com/en/5.2/intro/tutorial01/)
+- [W3schools python classes](https://www.w3schools.com/python/python_classes.asp)
+
 
 ## Grabaciones
 
